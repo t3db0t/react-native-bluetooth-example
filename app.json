@@ -1,6 +1,9 @@
 {
   "expo": {
     "name": "react-native-bluetooth-example",
+    "plugins":[
+			"@config-plugins/react-native-ble-plx"
+		],
     "slug": "react-native-bluetooth-example",
     "version": "1.0.0",
     "orientation": "portrait",
